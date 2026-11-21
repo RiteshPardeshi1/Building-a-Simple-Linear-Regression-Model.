@@ -27,4 +27,4 @@ Python, Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
 
 ## Author
 
-Ritesh Pardeshi, Data Scientist
+Ritesh Pardeshi, Data Intelligence Specialist
