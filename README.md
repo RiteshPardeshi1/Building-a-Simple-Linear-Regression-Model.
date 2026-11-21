@@ -1,4 +1,4 @@
-# Building a Simple Linear Regression Model: House Price vs Area
+# 🏡 Simple Linear Regression from Scratch: House Price vs Area
 
 A first machine learning notebook that predicts house prices from square footage using simple linear regression, built on a small synthetic dataset with a known relationship between area and price plus random noise.
 
